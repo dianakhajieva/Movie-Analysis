@@ -85,7 +85,7 @@ The goal is to uncover **financial, cultural, and temporal patterns** in the fil
     - **Eric Obrien** topped the list.  
 <br>
 
-    ![Alt text](photos/talent.png)
+    ![Alt text](<photos/talent.png>)
 
 
 ## 🛠️ Tools & Libraries
@@ -103,3 +103,4 @@ The goal is to uncover **financial, cultural, and temporal patterns** in the fil
 Dataset: [Kaggle Movies Dataset](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)  
 
 ---
+
