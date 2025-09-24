@@ -1,13 +1,13 @@
 
 # 🎬 Movie Dataset Analysis
 
-## 📌 Overview
+##  Overview
 This project analyzes a large-scale movie dataset (`movies.csv`) sourced from **Kaggle**, containing **999,999 records** and **17 columns**.  
 
 
 The goal is to uncover **financial, cultural, and temporal patterns** in the film industry through exploratory data analysis (EDA) and visualization.  
 
-## 📊 Dataset
+##  Dataset
 **Shape**: `(999,999, 17)`  
 **Key Columns**:
 - `Title`, `Genre`, `ReleaseYear`, `ReleaseDate`, `Country`
@@ -16,7 +16,7 @@ The goal is to uncover **financial, cultural, and temporal patterns** in the fil
 - `IMDbRating`, `RottenTomatoesScore`, `NumVotesIMDb`, `NumVotesRT`
 - `Director`, `LeadActor`
 
-## 🔍 Key Insights
+##  Key Insights
 1. **Top 10 Movies by ROI and Rating**  
 
    - Identified the most profitable movies relative to budget and critical reception. 
@@ -83,10 +83,6 @@ The goal is to uncover **financial, cultural, and temporal patterns** in the fil
 
 10. **Top 5 Lead Actors by Avg Global Box Office**  
     - **Eric Obrien** topped the list.  
-<br>
-
-    ![Alt text](<photos/talent.png>)
-
 
 ## 🛠️ Tools & Libraries
 - **Python**  
@@ -103,5 +99,6 @@ The goal is to uncover **financial, cultural, and temporal patterns** in the fil
 Dataset: [Kaggle Movies Dataset](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)  
 
 ---
+
 
 
